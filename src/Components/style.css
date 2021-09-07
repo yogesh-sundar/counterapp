@@ -1,0 +1,15 @@
+button {
+    color:slateblue;
+    font-size: larger;
+    border-radius: 10px;
+    text-align: center;
+    background-color:white;
+    margin-bottom: 15px;
+}
+div{
+    text-align: center;
+    background-color:crimson;
+}
+h1{
+    color:seagreen;
+}
